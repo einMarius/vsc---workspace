@@ -1,0 +1,20 @@
+header {
+    border: 1px solid grey;
+}
+
+.headerIMG{
+    width: 100%;
+}
+
+.containerIMG {
+    background-color: white;
+    padding: 10px;
+}
+
+.headline {
+    color: rgb(38, 144, 237);
+}
+
+body{
+    background-color: rgb(231, 231, 231);
+}
